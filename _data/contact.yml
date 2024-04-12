@@ -2,9 +2,13 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/nelsondurairaj"
+  noblank: true
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: ""
+  noblank: true
 
 - type: email
   icon: "fas fa-envelope"
